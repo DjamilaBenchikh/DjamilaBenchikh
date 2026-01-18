@@ -39,8 +39,9 @@ I turn raw data into clear insights and decision-ready deliverables:
 
 ## GitHub stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DjamilaBenchikh&show_icons=true&hide_title=true&rank_icon=github&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjamilaBenchikh&layout=compact&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DjamilaBenchikh&show_icons=true&hide_title=true&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjamilaBenchikh&layout=compact&cache_seconds=86400" />
+
 </p>
 
 <p align="center">
