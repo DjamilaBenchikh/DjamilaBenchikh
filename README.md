@@ -10,10 +10,10 @@
   <a href="https://www.linkedin.com/in/djamila-b-20b8b0220/">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TON_EMAIL">
+  <a href="mailto:djamilabenchikh05@gmail.com">
     <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="TON_PORTFOLIO_URL">
+  <a href="https://djamilabenchikhcom.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
