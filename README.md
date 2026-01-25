@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I’m Djamila 👋</h1>
 
 <p align="center">
-  <b>Data Analyst–oriented Data Scientist</b><br/>
-  End-to-end analytics • Decision-ready dashboards • Reproducible workflows<br/>
-  <sub>Python • SQL • Power BI • Canada</sub>
+  <b>ML Engineer / Applied Data Scientist</b><br/>
+  NLP • Graph ML (GNNs) • Reproducible pipelines • Deployable inference<br/>
+  <sub>Python • PyTorch • SQL • Canada</sub>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/djamila-b-20b8b0220/">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TONEMAIL@gmail.com">
+  <a href="mailto:TON_EMAIL">
     <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://TON-PORTFOLIO-LINK">
+  <a href="TON_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
@@ -29,11 +29,11 @@
 ---
 
 ## About
-I turn raw data into clear insights and decision-ready deliverables:
-- **SQL** querying, validation, and KPI tracking  
-- **Python** automation (cleaning, feature engineering, reporting)  
-- **Power BI** dashboards (trends, segmentation, performance monitoring)  
-- **Lightweight ML** when it truly adds value (strong baselines, proper validation)
+I build end-to-end ML systems with strong evaluation and reproducibility:
+- **Data pipelines** (cleaning, feature engineering, validation)
+- **Modeling** (NLP, Graph ML) with clear baselines and proper validation
+- **Inference & delivery** (reproducible runs, practical constraints, clean code)
+- **Analytics/BI** (SQL + Power BI) for monitoring and decision-making
 
 ---
 
@@ -41,7 +41,6 @@ I turn raw data into clear insights and decision-ready deliverables:
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=DjamilaBenchikh&show_icons=true&hide_title=true&cache_seconds=86400" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjamilaBenchikh&layout=compact&cache_seconds=86400" />
-
 </p>
 
 <p align="center">
@@ -59,17 +58,17 @@ I turn raw data into clear insights and decision-ready deliverables:
 ---
 
 ## Dashboards
-- 📊 Power BI: KPIs, time trends, segmentation, and data quality checks  
-- ✅ Notebook deliverables: business questions → insights → recommendations
+- 📊 Power BI dashboards: KPIs, trends, segmentation, and monitoring
+- ✅ Notebook deliverables: business question → insights → recommendations
 
 ---
 
 ## Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-111?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-111?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -77,4 +76,4 @@ I turn raw data into clear insights and decision-ready deliverables:
 ---
 
 ## Contact
-📩 Reach me on LinkedIn or by email — I’m open to analytics / data projects and collaboration.
+📩 Reach me on LinkedIn or by email — open to ML Engineer / Applied DS opportunities and collaboration.
