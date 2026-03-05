@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I’m Djamila 👋</h1>
-
 <p align="center">
-  <b>ML Engineer / Applied Data Scientist</b><br/>
-  NLP • Graph ML (GNNs) • Reproducible pipelines • Deployable inference<br/>
-  <sub>Python • PyTorch • SQL • Canada</sub>
+  <b>Data Analyst (M.Sc.) | Python • SQL • Power BI</b><br/>
+  Analytics • Dashboards • ETL • Practical ML (NLP / Classification)<br/>
+  <sub>Canada • Open to Data Analyst / BI Analyst roles</sub>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/djamila-b-20b8b0220/">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" />
