@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Djamila 👋</h1>
 <p align="center">
-  <b>Data Analyst (M.Sc.) | Python • SQL • Power BI</b><br/>
+  <b>Data scientist (M.Sc.) | Python • NLP • LLM • GNN </b><br/>
   Analytics • Dashboards • ETL • Practical ML (NLP / Classification)<br/>
   <sub>Canada • Open to Data Analyst / BI Analyst roles</sub>
 </p>
