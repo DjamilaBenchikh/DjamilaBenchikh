@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I’m Djamila 👋</h1>
 <p align="center">
-  <b>Data scientist (M.Sc.) | Python • NLP • LLM • GNN </b><br/>
-  Analytics • Dashboards • ETL • Practical ML (NLP / Classification)<br/>
-  <sub>Canada • Open to Data Analyst / BI Analyst roles</sub>
+  <b>Junior ML / AI Engineer | Python • NLP • Transformers • GNN</b><br/>
+  Data pipelines • Model evaluation • Practical ML systems • SQL<br/>
+  <sub>Canada • Open to Junior ML / AI opportunities</sub>
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/djamila-b-20b8b0220/">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,7 +20,6 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#projects">Projects</a> •
-  <a href="#dashboards">Dashboards</a> •
   <a href="#tools">Tools</a> •
   <a href="#contact">Contact</a>
 </p>
@@ -27,11 +27,11 @@
 ---
 
 ## About
-I build end-to-end ML systems with strong evaluation and reproducibility:
-- **Data pipelines** (cleaning, feature engineering, validation)
-- **Modeling** (NLP, Graph ML) with clear baselines and proper validation
-- **Inference & delivery** (reproducible runs, practical constraints, clean code)
-- **Analytics/BI** (SQL + Power BI) for monitoring and decision-making
+I build practical ML systems with a strong focus on data preparation, evaluation, and reproducibility:
+- **Data preparation** (cleaning, feature engineering, validation)
+- **Modeling** (NLP, Transformers, Graph ML) with solid baselines and clear evaluation
+- **Experimentation** (classification, regression, error analysis, model comparison)
+- **Engineering mindset** (clean code, reproducible workflows, practical constraints)
 
 ---
 
@@ -55,18 +55,11 @@ I build end-to-end ML systems with strong evaluation and reproducibility:
 
 ---
 
-## Dashboards
-- 📊 Power BI dashboards: KPIs, trends, segmentation, and monitoring
-- ✅ Notebook deliverables: business question → insights → recommendations
-
----
-
 ## Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-111?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-111?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -74,4 +67,4 @@ I build end-to-end ML systems with strong evaluation and reproducibility:
 ---
 
 ## Contact
-📩 Reach me on LinkedIn or by email — open to ML Engineer / Applied DS opportunities and collaboration.
+📩 Reach me on LinkedIn or by email — open to Junior ML / AI opportunities and collaboration.
